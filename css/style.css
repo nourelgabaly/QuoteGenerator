@@ -1,0 +1,16 @@
+.child button{
+    background-color: blue;
+    color: white;
+    padding: 30px 90px;
+    font-size: 12px;
+}
+.child button:hover{
+    background-color: green;
+}
+p{
+    font-size: 35px;
+}
+h1{
+    font-size: 80px;
+    font-weight: 700;
+}
